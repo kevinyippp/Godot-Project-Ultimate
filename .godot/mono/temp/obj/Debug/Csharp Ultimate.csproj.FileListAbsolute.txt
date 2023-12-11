@@ -15,3 +15,4 @@ C:\Users\Kevin\Documents\Godot Projects\Csharp Ultimate\.godot\mono\temp\obj\Deb
 C:\Users\Kevin\Documents\Godot Projects\Csharp Ultimate\.godot\mono\temp\obj\Debug\Csharp Ultimate.pdb
 C:\Users\Kevin\Documents\Godot Projects\Csharp Ultimate\.godot\mono\temp\obj\Debug\Csharp Ultimate.genruntimeconfig.cache
 C:\Users\Kevin\Documents\Godot Projects\Csharp Ultimate\.godot\mono\temp\obj\Debug\ref\Csharp Ultimate.dll
+C:\Users\Kevin\Documents\Godot Projects\Csharp Ultimate\.godot\mono\temp\obj\Debug\Csharp Ultimate.sourcelink.json

@@ -10,12 +10,13 @@ radius = 52.0
 script = ExtResource("1_4dr66")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
-position = Vector2(8, -45)
+position = Vector2(61, -19)
+rotation = 1.5708
 texture = ExtResource("2_l6o8d")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(4, -3)
+position = Vector2(20, -23)
 shape = SubResource("CircleShape2D_y112q")
 
 [node name="Pivot Point" type="Marker2D" parent="."]
-position = Vector2(26, -132)
+position = Vector2(145, -2)
