@@ -16,3 +16,21 @@ C:\Users\Kevin\Documents\Godot Projects\Csharp Ultimate\.godot\mono\temp\obj\Deb
 C:\Users\Kevin\Documents\Godot Projects\Csharp Ultimate\.godot\mono\temp\obj\Debug\Csharp Ultimate.genruntimeconfig.cache
 C:\Users\Kevin\Documents\Godot Projects\Csharp Ultimate\.godot\mono\temp\obj\Debug\ref\Csharp Ultimate.dll
 C:\Users\Kevin\Documents\Godot Projects\Csharp Ultimate\.godot\mono\temp\obj\Debug\Csharp Ultimate.sourcelink.json
+C:\Users\Kevin Yip\Documents\Godot\Godot-Project-Ultimate\.godot\mono\temp\bin\Debug\Csharp Ultimate.deps.json
+C:\Users\Kevin Yip\Documents\Godot\Godot-Project-Ultimate\.godot\mono\temp\bin\Debug\Csharp Ultimate.runtimeconfig.json
+C:\Users\Kevin Yip\Documents\Godot\Godot-Project-Ultimate\.godot\mono\temp\bin\Debug\Csharp Ultimate.dll
+C:\Users\Kevin Yip\Documents\Godot\Godot-Project-Ultimate\.godot\mono\temp\bin\Debug\Csharp Ultimate.pdb
+C:\Users\Kevin Yip\Documents\Godot\Godot-Project-Ultimate\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\Kevin Yip\Documents\Godot\Godot-Project-Ultimate\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\Kevin Yip\Documents\Godot\Godot-Project-Ultimate\.godot\mono\temp\obj\Debug\Csharp Ultimate.csproj.AssemblyReference.cache
+C:\Users\Kevin Yip\Documents\Godot\Godot-Project-Ultimate\.godot\mono\temp\obj\Debug\Csharp Ultimate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Yip\Documents\Godot\Godot-Project-Ultimate\.godot\mono\temp\obj\Debug\Csharp Ultimate.AssemblyInfoInputs.cache
+C:\Users\Kevin Yip\Documents\Godot\Godot-Project-Ultimate\.godot\mono\temp\obj\Debug\Csharp Ultimate.AssemblyInfo.cs
+C:\Users\Kevin Yip\Documents\Godot\Godot-Project-Ultimate\.godot\mono\temp\obj\Debug\Csharp Ultimate.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Yip\Documents\Godot\Godot-Project-Ultimate\.godot\mono\temp\obj\Debug\Csharp Ultimate.sourcelink.json
+C:\Users\Kevin Yip\Documents\Godot\Godot-Project-Ultimate\.godot\mono\temp\obj\Debug\Csharp Ultimate.csproj.CopyComplete
+C:\Users\Kevin Yip\Documents\Godot\Godot-Project-Ultimate\.godot\mono\temp\obj\Debug\Csharp Ultimate.dll
+C:\Users\Kevin Yip\Documents\Godot\Godot-Project-Ultimate\.godot\mono\temp\obj\Debug\refint\Csharp Ultimate.dll
+C:\Users\Kevin Yip\Documents\Godot\Godot-Project-Ultimate\.godot\mono\temp\obj\Debug\Csharp Ultimate.pdb
+C:\Users\Kevin Yip\Documents\Godot\Godot-Project-Ultimate\.godot\mono\temp\obj\Debug\Csharp Ultimate.genruntimeconfig.cache
+C:\Users\Kevin Yip\Documents\Godot\Godot-Project-Ultimate\.godot\mono\temp\obj\Debug\ref\Csharp Ultimate.dll
