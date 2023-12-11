@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://h7qqaahksyjm"
+path="res://.godot/imported/organic_impact.mp3-2bfc83716c754362fab944ab81d69130.mp3str"
+
+[deps]
+
+source_file="res://Ultimate Assets/audio/organic_impact.mp3"
+dest_files=["res://.godot/imported/organic_impact.mp3-2bfc83716c754362fab944ab81d69130.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

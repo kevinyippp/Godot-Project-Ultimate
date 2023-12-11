@@ -1,0 +1,21 @@
+[gd_scene load_steps=4 format=3 uid="uid://bpkgjf6cj51ux"]
+
+[ext_resource type="Script" path="res://Game Scripts/Player.cs" id="1_4dr66"]
+[ext_resource type="Texture2D" uid="uid://bailv2cjok4va" path="res://Ultimate Assets/graphics/player/player.png" id="2_l6o8d"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_y112q"]
+radius = 52.0
+
+[node name="Player" type="CharacterBody2D"]
+script = ExtResource("1_4dr66")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(8, -45)
+texture = ExtResource("2_l6o8d")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(4, -3)
+shape = SubResource("CircleShape2D_y112q")
+
+[node name="Pivot Point" type="Marker2D" parent="."]
+position = Vector2(26, -132)
