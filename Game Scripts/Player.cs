@@ -26,10 +26,8 @@ public partial class Player : CharacterBody2D
 		playerDirection = Input.GetVector("Left", "Right", "Up", "Down");
 
 		Velocity = playerDirection * speed;
-
-		MoveAndSlide();
-		
-		GD.Print( Engine.GetFramesPerSecond() );
+	
+		GD.Print( MoveAndCollide( Velocity * (float)delta) );
 
 		LookAt(GetGlobalMousePosition() ); //rotate player to mouse direction
 	}

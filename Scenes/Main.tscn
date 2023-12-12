@@ -1,8 +1,12 @@
-[gd_scene load_steps=2 format=3 uid="uid://d2ykpkxlev876"]
+[gd_scene load_steps=3 format=3 uid="uid://d2ykpkxlev876"]
 
 [ext_resource type="PackedScene" uid="uid://bpkgjf6cj51ux" path="res://Scenes/Player.tscn" id="1_xduyk"]
+[ext_resource type="PackedScene" uid="uid://dlfhxngygs76a" path="res://Scenes/Bed.tscn" id="2_ko7ho"]
 
 [node name="Main" type="Node2D"]
 
+[node name="Bed" parent="." instance=ExtResource("2_ko7ho")]
+position = Vector2(814, 196)
+
 [node name="Player" parent="." instance=ExtResource("1_xduyk")]
-position = Vector2(431, 331)
+position = Vector2(236, 426)
