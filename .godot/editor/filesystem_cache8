@@ -1,212 +1,212 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1702291955
-icon.svg::CompressedTexture2D::4448353384319928326::1702291030::1702291297::1::::<><>::
-README.md::TextFile::-1::1702291028::0::1::::<><>::
-::res://Game Scripts/::1702291028
-Player.cs::CSharpScript::-1::1702291830::0::1::::<>CharacterBody2D<>::
-::res://Scenes/::1702291938
-Main.tscn::PackedScene::9104540413509852907::1702291938::0::1::::<><>::uid://bpkgjf6cj51ux::::res://Scenes/Player.tscn
-Player.tscn::PackedScene::3460277800515722791::1702291938::0::1::::<><>::res://Game Scripts/Player.cs<>uid://bailv2cjok4va::::res://Ultimate Assets/graphics/player/player.png
-::res://Ultimate Assets/::1702291028
-::res://Ultimate Assets/audio/::1702291028
-battleThemeA.mp3::AudioStreamMP3::9016239101936415669::1702291028::1702291028::1::::<><>::
-container_hit.mp3::AudioStreamMP3::8827396670891320007::1702291028::1702291028::1::::<><>::
-explosion.wav::AudioStreamWAV::7906723508543541101::1702291028::1702291028::1::::<><>::
-item.mp3::AudioStreamMP3::5169876441345924394::1702291028::1702291028::1::::<><>::
-laser.wav::AudioStreamWAV::5024722960196506398::1702291028::1702291028::1::::<><>::
-organic_impact.mp3::AudioStreamMP3::558382038515028142::1702291028::1702291028::1::::<><>::
-solid_impact.ogg::AudioStreamOggVorbis::3873136257450982967::1702291028::1702291028::1::::<><>::
-::res://Ultimate Assets/graphics/::1702291030
-::res://Ultimate Assets/graphics/car/::1702291028
-main.png::CompressedTexture2D::943468731765287699::1702291028::1702291028::1::::<><>::
-turret.png::CompressedTexture2D::5027161583324744657::1702291028::1702291028::1::::<><>::
-::res://Ultimate Assets/graphics/decals/::1702291028
-blood.png::CompressedTexture2D::1436057372472882335::1702291028::1702291028::1::::<><>::
-ceiling_hole1.png::CompressedTexture2D::1023232040216560012::1702291028::1702291028::1::::<><>::
-dirt_patch.png::CompressedTexture2D::3499578900557522651::1702291028::1702291028::1::::<><>::
-white.png::CompressedTexture2D::7190873407936571863::1702291028::1702291028::1::::<><>::
-::res://Ultimate Assets/graphics/decals/brushes/::1702291028
-brush044.png::CompressedTexture2D::2684807176007943759::1702291028::1702291028::1::::<><>::
-brush045.png::CompressedTexture2D::2138930429027994466::1702291028::1702291028::1::::<><>::
-brush046.png::CompressedTexture2D::5393115470783299945::1702291028::1702291028::1::::<><>::
-brush047.png::CompressedTexture2D::762220688236934060::1702291028::1702291028::1::::<><>::
-brush048.png::CompressedTexture2D::6417985106014758753::1702291028::1702291028::1::::<><>::
-brush049.png::CompressedTexture2D::7104837382689409932::1702291028::1702291028::1::::<><>::
-brush050.png::CompressedTexture2D::7215414526277762212::1702291028::1702291028::1::::<><>::
-brush051.png::CompressedTexture2D::281908314212571990::1702291028::1702291028::1::::<><>::
-brush052.png::CompressedTexture2D::8386971705928441474::1702291028::1702291028::1::::<><>::
-brush053.png::CompressedTexture2D::7837966504377920080::1702291028::1702291028::1::::<><>::
-brush054.png::CompressedTexture2D::4603946416979336607::1702291028::1702291028::1::::<><>::
-brush055.png::CompressedTexture2D::8010417388376393623::1702291028::1702291028::1::::<><>::
-brush056.png::CompressedTexture2D::8604791042943772721::1702291028::1702291028::1::::<><>::
-::res://Ultimate Assets/graphics/decals/moss/::1702291028
-moss_1.png::CompressedTexture2D::8940546503246147789::1702291028::1702291028::1::::<><>::
-moss_2.png::CompressedTexture2D::6431943777347810463::1702291028::1702291028::1::::<><>::
-moss_3.png::CompressedTexture2D::7849921464848716826::1702291028::1702291028::1::::<><>::
-moss_4.png::CompressedTexture2D::5734222213549096256::1702291028::1702291028::1::::<><>::
-moss_5.png::CompressedTexture2D::7552051886152872544::1702291028::1702291028::1::::<><>::
-::res://Ultimate Assets/graphics/enemies/::1702291030
-drone.png::CompressedTexture2D::1564244000441977319::1702291030::1702291030::1::::<><>::
-scout.png::CompressedTexture2D::2060897034500624466::1702291030::1702291030::1::::<><>::
-::res://Ultimate Assets/graphics/enemies/bug/::1702291029
-::res://Ultimate Assets/graphics/enemies/bug/attack/::1702291029
-00010.png::CompressedTexture2D::1844327543317703475::1702291028::1702291028::1::::<><>::
-00011.png::CompressedTexture2D::7755271536346929898::1702291028::1702291028::1::::<><>::
-00012.png::CompressedTexture2D::6728215413268642313::1702291028::1702291028::1::::<><>::
-00013.png::CompressedTexture2D::4028704376243973856::1702291028::1702291028::1::::<><>::
-00014.png::CompressedTexture2D::6650887685164713060::1702291028::1702291028::1::::<><>::
-00015.png::CompressedTexture2D::7509792515502325180::1702291028::1702291028::1::::<><>::
-00016.png::CompressedTexture2D::4749052566928513571::1702291028::1702291028::1::::<><>::
-00017.png::CompressedTexture2D::6014323445773092290::1702291028::1702291028::1::::<><>::
-00018.png::CompressedTexture2D::8649273951172616828::1702291028::1702291028::1::::<><>::
-00019.png::CompressedTexture2D::7881175283848688881::1702291028::1702291028::1::::<><>::
-00020.png::CompressedTexture2D::874867803751515128::1702291029::1702291029::1::::<><>::
-00021.png::CompressedTexture2D::8655130721727838435::1702291029::1702291029::1::::<><>::
-00022.png::CompressedTexture2D::3208958684089033419::1702291029::1702291029::1::::<><>::
-00023.png::CompressedTexture2D::4966243081151475206::1702291029::1702291029::1::::<><>::
-00024.png::CompressedTexture2D::683688616564600005::1702291029::1702291029::1::::<><>::
-00025.png::CompressedTexture2D::2088292402174199041::1702291029::1702291029::1::::<><>::
-00026.png::CompressedTexture2D::2411096063906312107::1702291029::1702291029::1::::<><>::
-00027.png::CompressedTexture2D::2350291532012548664::1702291029::1702291029::1::::<><>::
-00028.png::CompressedTexture2D::4718597063744040636::1702291029::1702291029::1::::<><>::
-00029.png::CompressedTexture2D::4443927760217630720::1702291029::1702291029::1::::<><>::
-00030.png::CompressedTexture2D::3710788141196051189::1702291029::1702291029::1::::<><>::
-::res://Ultimate Assets/graphics/enemies/bug/walk/::1702291030
-00000.png::CompressedTexture2D::3779010749339501004::1702291029::1702291029::1::::<><>::
-00001.png::CompressedTexture2D::1867578086327762767::1702291029::1702291029::1::::<><>::
-00002.png::CompressedTexture2D::2790515859958985105::1702291029::1702291029::1::::<><>::
-00003.png::CompressedTexture2D::3982840608811894887::1702291029::1702291029::1::::<><>::
-00004.png::CompressedTexture2D::5088691073078515471::1702291029::1702291029::1::::<><>::
-00005.png::CompressedTexture2D::4051131645891053022::1702291029::1702291029::1::::<><>::
-00006.png::CompressedTexture2D::5849032750587406694::1702291029::1702291029::1::::<><>::
-00007.png::CompressedTexture2D::2009174401525872057::1702291030::1702291030::1::::<><>::
-00008.png::CompressedTexture2D::2209915410311833893::1702291030::1702291030::1::::<><>::
-::res://Ultimate Assets/graphics/enemies/hunter/::1702291030
-hunter.png::CompressedTexture2D::1024633945096173203::1702291030::1702291030::1::::<><>::
-::res://Ultimate Assets/graphics/enemies/hunter/parts/::1702291030
-claw.png::CompressedTexture2D::7860257820574977557::1702291030::1702291030::1::::<><>::
-head.png::CompressedTexture2D::8292100490030823315::1702291030::1702291030::1::::<><>::
-leg_back_inner.png::CompressedTexture2D::5910001337807934956::1702291030::1702291030::1::::<><>::
-leg_back_outer.png::CompressedTexture2D::2287725755963920394::1702291030::1702291030::1::::<><>::
-leg_front_inner.png::CompressedTexture2D::3462946803748806792::1702291030::1702291030::1::::<><>::
-leg_front_outer.png::CompressedTexture2D::3562155286813434360::1702291030::1702291030::1::::<><>::
-torso.png::CompressedTexture2D::1043365594683511100::1702291030::1702291030::1::::<><>::
-::res://Ultimate Assets/graphics/explosions/::1702291030
-explosion_1.png::CompressedTexture2D::4120563399066266532::1702291030::1702291030::1::::<><>::
-explosion_2.png::CompressedTexture2D::5129386371533729567::1702291030::1702291030::1::::<><>::
-explosion_3.png::CompressedTexture2D::3735624561880903392::1702291030::1702291030::1::::<><>::
-grunge.png::CompressedTexture2D::5318974165044584584::1702291030::1702291030::1::::<><>::
-gun.png::CompressedTexture2D::1460115930987234078::1702291030::1702291030::1::::<><>::
-::res://Ultimate Assets/graphics/ground/::1702291030
-dirt.png::CompressedTexture2D::1558707173414948381::1702291030::1702291030::1::::<><>::
-Mesh.png::CompressedTexture2D::1148566925188173806::1702291030::1702291030::1::::<><>::
-stones.png::CompressedTexture2D::6630792871894999146::1702291030::1702291030::1::::<><>::
-::res://Ultimate Assets/graphics/items/::1702291030
-orb2.png::CompressedTexture2D::4011644314250578996::1702291030::1702291030::1::::<><>::
-::res://Ultimate Assets/graphics/lights/::1702291030
-::res://Ultimate Assets/graphics/lights/fan_animation/::1702291030
-00000.png::CompressedTexture2D::8302444937779561892::1702291030::1702291030::1::::<><>::
-00001.png::CompressedTexture2D::8969320609329770183::1702291030::1702291030::1::::<><>::
-00002.png::CompressedTexture2D::7197776582756153186::1702291030::1702291030::1::::<><>::
-00003.png::CompressedTexture2D::4115178470660047253::1702291030::1702291030::1::::<><>::
-00004.png::CompressedTexture2D::3240573832272096577::1702291030::1702291030::1::::<><>::
-00005.png::CompressedTexture2D::353060954683710107::1702291030::1702291030::1::::<><>::
-00006.png::CompressedTexture2D::3686503553207563338::1702291030::1702291030::1::::<><>::
-00007.png::CompressedTexture2D::7604778366159383775::1702291030::1702291030::1::::<><>::
-00008.png::CompressedTexture2D::8792774977851596830::1702291030::1702291030::1::::<><>::
-00009.png::CompressedTexture2D::5725920866206599714::1702291030::1702291030::1::::<><>::
-00010.png::CompressedTexture2D::3569765870093908653::1702291030::1702291030::1::::<><>::
-00011.png::CompressedTexture2D::21042478999877900::1702291030::1702291030::1::::<><>::
-00012.png::CompressedTexture2D::7590661003291305525::1702291030::1702291030::1::::<><>::
-00013.png::CompressedTexture2D::1900081256942754662::1702291030::1702291030::1::::<><>::
-00014.png::CompressedTexture2D::7371353261055453949::1702291030::1702291030::1::::<><>::
-00015.png::CompressedTexture2D::1585548519808008273::1702291030::1702291030::1::::<><>::
-00016.png::CompressedTexture2D::2642136936233136157::1702291030::1702291030::1::::<><>::
-00017.png::CompressedTexture2D::8623532360225301848::1702291030::1702291030::1::::<><>::
-00018.png::CompressedTexture2D::1867819980391602877::1702291030::1702291030::1::::<><>::
-00019.png::CompressedTexture2D::7800700788415920171::1702291030::1702291030::1::::<><>::
-00020.png::CompressedTexture2D::6240345186036413227::1702291030::1702291030::1::::<><>::
-00021.png::CompressedTexture2D::3989963988040141483::1702291030::1702291030::1::::<><>::
-00022.png::CompressedTexture2D::6119129757627233565::1702291030::1702291030::1::::<><>::
-00023.png::CompressedTexture2D::3114850103220513129::1702291030::1702291030::1::::<><>::
-00024.png::CompressedTexture2D::4264967523171835371::1702291030::1702291030::1::::<><>::
-00025.png::CompressedTexture2D::4958498066393124713::1702291030::1702291030::1::::<><>::
-00026.png::CompressedTexture2D::82610914564875957::1702291030::1702291030::1::::<><>::
-00027.png::CompressedTexture2D::7991298547007687247::1702291030::1702291030::1::::<><>::
-00028.png::CompressedTexture2D::3686400572633991401::1702291030::1702291030::1::::<><>::
-00029.png::CompressedTexture2D::2813391297855585255::1702291030::1702291030::1::::<><>::
-00030.png::CompressedTexture2D::7708454520713807311::1702291030::1702291030::1::::<><>::
-00031.png::CompressedTexture2D::8820419950568700124::1702291030::1702291030::1::::<><>::
-00032.png::CompressedTexture2D::6113825112271198263::1702291030::1702291030::1::::<><>::
-00033.png::CompressedTexture2D::9193213346566361563::1702291030::1702291030::1::::<><>::
-00034.png::CompressedTexture2D::6112705648917974944::1702291030::1702291030::1::::<><>::
-00035.png::CompressedTexture2D::1586035611462331844::1702291030::1702291030::1::::<><>::
-00036.png::CompressedTexture2D::223063085675189342::1702291030::1702291030::1::::<><>::
-00037.png::CompressedTexture2D::2968125373267304597::1702291030::1702291030::1::::<><>::
-00038.png::CompressedTexture2D::5739758307629868421::1702291030::1702291030::1::::<><>::
-00039.png::CompressedTexture2D::4875163476012614921::1702291030::1702291030::1::::<><>::
-00040.png::CompressedTexture2D::3336970985342589298::1702291030::1702291030::1::::<><>::
-00041.png::CompressedTexture2D::1714077444796515559::1702291030::1702291030::1::::<><>::
-00042.png::CompressedTexture2D::5085627553975949467::1702291030::1702291030::1::::<><>::
-00043.png::CompressedTexture2D::8029044950258472035::1702291030::1702291030::1::::<><>::
-00044.png::CompressedTexture2D::4007252616001796982::1702291030::1702291030::1::::<><>::
-00045.png::CompressedTexture2D::3368891282335903581::1702291030::1702291030::1::::<><>::
-00046.png::CompressedTexture2D::3115017384241908277::1702291030::1702291030::1::::<><>::
-00047.png::CompressedTexture2D::7079007141962767437::1702291030::1702291030::1::::<><>::
-::res://Ultimate Assets/graphics/lights/overlays/::1702291030
-hole.png::CompressedTexture2D::6233792775564704935::1702291030::1702291030::1::::<><>::
-infrastructure.png::CompressedTexture2D::5252522780218017864::1702291030::1702291030::1::::<><>::
-lattice.png::CompressedTexture2D::5658067611964632510::1702291030::1702291030::1::::<><>::
-::res://Ultimate Assets/graphics/lights/textures/::1702291030
-circle.png::CompressedTexture2D::4595718987950339826::1702291030::1702291030::1::::<><>::
-::res://Ultimate Assets/graphics/objects/::1702291030
-base.png::CompressedTexture2D::8615008330951650634::1702291030::1702291030::1::::<><>::
-bed.png::CompressedTexture2D::1788656741905043821::1702291030::1702291030::1::::<><>::
-Billboard.png::CompressedTexture2D::1803660358685378616::1702291030::1702291030::1::::<><>::
-Box.png::CompressedTexture2D::1780594959638114716::1702291030::1702291030::1::::<><>::
-corner.png::CompressedTexture2D::6114367024391900752::1702291030::1702291030::1::::<><>::
-door.png::CompressedTexture2D::7104366472252756975::1702291030::1702291030::1::::<><>::
-electric_box.png::CompressedTexture2D::7445873113343857397::1702291030::1702291030::1::::<><>::
-electric_hole.png::CompressedTexture2D::1111104883660709737::1702291030::1702291030::1::::<><>::
-fan.png::CompressedTexture2D::2144701090099576711::1702291030::1702291030::1::::<><>::
-gate.png::CompressedTexture2D::240463370203882868::1702291030::1702291030::1::::<><>::
-lid.png::CompressedTexture2D::8363779114911937130::1702291030::1702291030::1::::<><>::
-light.png::CompressedTexture2D::6829773063877986774::1702291030::1702291030::1::::<><>::
-pillow_large.png::CompressedTexture2D::2426227268953369961::1702291030::1702291030::1::::<><>::
-pillow_small.png::CompressedTexture2D::5154408438459210980::1702291030::1702291030::1::::<><>::
-toilet.png::CompressedTexture2D::6197649684886505970::1702291030::1702291030::1::::<><>::
-ventilation_hole.png::CompressedTexture2D::5057894312668718980::1702291030::1702291030::1::::<><>::
-ventilation_surface.png::CompressedTexture2D::2778551873819346025::1702291030::1702291030::1::::<><>::
-ventilation_surface_small.png::CompressedTexture2D::6037759085163784513::1702291030::1702291030::1::::<><>::
-wall_lamp.png::CompressedTexture2D::1572592978281016448::1702291030::1702291030::1::::<><>::
-::res://Ultimate Assets/graphics/objects/box/::1702291030
-base.png::CompressedTexture2D::8300217080807777052::1702291030::1702291030::1::::<><>::
-lid.png::CompressedTexture2D::2399501151184116287::1702291030::1702291030::1::::<><>::
-::res://Ultimate Assets/graphics/objects/infestation/::1702291030
-large.png::CompressedTexture2D::8100187260539472551::1702291030::1702291030::1::::<><>::
-line.png::CompressedTexture2D::8413753577783727485::1702291030::1702291030::1::::<><>::
-medium.png::CompressedTexture2D::5126799358604646115::1702291030::1702291030::1::::<><>::
-small.png::CompressedTexture2D::6243989549420492605::1702291030::1702291030::1::::<><>::
-small_2.png::CompressedTexture2D::7979240560012100216::1702291030::1702291030::1::::<><>::
-small_3.png::CompressedTexture2D::3500183699093072485::1702291030::1702291030::1::::<><>::
-small_4.png::CompressedTexture2D::8224038388322903687::1702291030::1702291030::1::::<><>::
-spikes.png::CompressedTexture2D::9106013445826577986::1702291030::1702291030::1::::<><>::
-::res://Ultimate Assets/graphics/player/::1702291030
-player.png::CompressedTexture2D::2403642515966130702::1702291030::1702291030::1::::<><>::
-::res://Ultimate Assets/graphics/projectiles/::1702291030
-blue.png::CompressedTexture2D::970251109059756895::1702291030::1702291030::1::::<><>::
-grenade.png::CompressedTexture2D::1379848498696438210::1702291030::1702291030::1::::<><>::
-::res://Ultimate Assets/graphics/tilesets/::1702291030
-ceiling.png::CompressedTexture2D::2651905001163092551::1702291030::1702291030::1::::<><>::
-interior.png::CompressedTexture2D::3592699989595231160::1702291030::1702291030::1::::<><>::
-outside_walls.png::CompressedTexture2D::4242730506009701383::1702291030::1702291030::1::::<><>::
-soil.png::CompressedTexture2D::297450191389938677::1702291030::1702291030::1::::<><>::
-::res://Ultimate Assets/graphics/ui/::1702291030
-bullet.png::CompressedTexture2D::7991322155438499738::1702291030::1702291030::1::::<><>::
-crosshair159.png::CompressedTexture2D::5770250723971221664::1702291030::1702291030::1::::<><>::
-grenade.png::CompressedTexture2D::5060523249408866438::1702291030::1702291030::1::::<><>::
-subatomic.tsoonami.ttf::FontFile::1219583812662487943::1702291030::1702291030::1::::<><>::
-::res://Ultimate Assets/graphics/ui/progress_bar/::1702291030
-bg.png::CompressedTexture2D::2816407648913734940::1702291030::1702291030::1::::<><>::
-over.png::CompressedTexture2D::111958752778261327::1702291030::1702291030::1::::<><>::
-progress.png::CompressedTexture2D::2338491712785427678::1702291030::1702291030::1::::<><>::
+::res://::1702353041
+icon.svg::CompressedTexture2D::4448353384319928326::1702268184::1702330050::1::::<><>::
+README.md::TextFile::-1::1702277101::0::1::::<><>::
+::res://Game Scripts/::1702329161
+Player.cs::CSharpScript::-1::1702352970::0::1::::<>CharacterBody2D<>::
+::res://Scenes/::1702351432
+Main.tscn::PackedScene::9104540413509852907::1702351432::0::1::::<><>::uid://bpkgjf6cj51ux::::res://Scenes/Player.tscn
+Player.tscn::PackedScene::3460277800515722791::1702351432::0::1::::<><>::res://Game Scripts/Player.cs<>uid://bailv2cjok4va::::res://Ultimate Assets/graphics/player/player.png
+::res://Ultimate Assets/::1696260137
+::res://Ultimate Assets/audio/::1702273303
+battleThemeA.mp3::AudioStreamMP3::9016239101936415669::1688037696::1702273290::1::::<><>::
+container_hit.mp3::AudioStreamMP3::8827396670891320007::1688037696::1702273290::1::::<><>::
+explosion.wav::AudioStreamWAV::7906723508543541101::1688037696::1702273303::1::::<><>::
+item.mp3::AudioStreamMP3::5169876441345924394::1688037696::1702273290::1::::<><>::
+laser.wav::AudioStreamWAV::5024722960196506398::1688037696::1702273303::1::::<><>::
+organic_impact.mp3::AudioStreamMP3::558382038515028142::1688037696::1702273290::1::::<><>::
+solid_impact.ogg::AudioStreamOggVorbis::3873136257450982967::1688037696::1702273290::1::::<><>::
+::res://Ultimate Assets/graphics/::1696321218
+::res://Ultimate Assets/graphics/car/::1702273295
+main.png::CompressedTexture2D::943468731765287699::1688037696::1702273295::1::::<><>::
+turret.png::CompressedTexture2D::5027161583324744657::1688037696::1702273295::1::::<><>::
+::res://Ultimate Assets/graphics/decals/::1702273296
+blood.png::CompressedTexture2D::1436057372472882335::1688037696::1702273296::1::::<><>::
+ceiling_hole1.png::CompressedTexture2D::1023232040216560012::1688037696::1702273291::1::::<><>::
+dirt_patch.png::CompressedTexture2D::3499578900557522651::1688037696::1702273292::1::::<><>::
+white.png::CompressedTexture2D::7190873407936571863::1688037696::1702273291::1::::<><>::
+::res://Ultimate Assets/graphics/decals/brushes/::1702273295
+brush044.png::CompressedTexture2D::2684807176007943759::1688037696::1702273295::1::::<><>::
+brush045.png::CompressedTexture2D::2138930429027994466::1688037696::1702273295::1::::<><>::
+brush046.png::CompressedTexture2D::5393115470783299945::1688037696::1702273295::1::::<><>::
+brush047.png::CompressedTexture2D::762220688236934060::1688037696::1702273295::1::::<><>::
+brush048.png::CompressedTexture2D::6417985106014758753::1688037696::1702273295::1::::<><>::
+brush049.png::CompressedTexture2D::7104837382689409932::1688037696::1702273295::1::::<><>::
+brush050.png::CompressedTexture2D::7215414526277762212::1688037696::1702273295::1::::<><>::
+brush051.png::CompressedTexture2D::281908314212571990::1688037696::1702273295::1::::<><>::
+brush052.png::CompressedTexture2D::8386971705928441474::1688037696::1702273295::1::::<><>::
+brush053.png::CompressedTexture2D::7837966504377920080::1688037696::1702273295::1::::<><>::
+brush054.png::CompressedTexture2D::4603946416979336607::1688037696::1702273295::1::::<><>::
+brush055.png::CompressedTexture2D::8010417388376393623::1688037696::1702273295::1::::<><>::
+brush056.png::CompressedTexture2D::8604791042943772721::1688037696::1702273295::1::::<><>::
+::res://Ultimate Assets/graphics/decals/moss/::1702273295
+moss_1.png::CompressedTexture2D::8940546503246147789::1688037696::1702273295::1::::<><>::
+moss_2.png::CompressedTexture2D::6431943777347810463::1688037696::1702273295::1::::<><>::
+moss_3.png::CompressedTexture2D::7849921464848716826::1688037696::1702273295::1::::<><>::
+moss_4.png::CompressedTexture2D::5734222213549096256::1688037696::1702273295::1::::<><>::
+moss_5.png::CompressedTexture2D::7552051886152872544::1688037696::1702273295::1::::<><>::
+::res://Ultimate Assets/graphics/enemies/::1702273300
+drone.png::CompressedTexture2D::1564244000441977319::1688037696::1702273300::1::::<><>::
+scout.png::CompressedTexture2D::2060897034500624466::1688037696::1702273295::1::::<><>::
+::res://Ultimate Assets/graphics/enemies/bug/::1696260137
+::res://Ultimate Assets/graphics/enemies/bug/attack/::1702273298
+00010.png::CompressedTexture2D::1844327543317703475::1688037696::1702273292::1::::<><>::
+00011.png::CompressedTexture2D::7755271536346929898::1688037696::1702273293::1::::<><>::
+00012.png::CompressedTexture2D::6728215413268642313::1688037696::1702273293::1::::<><>::
+00013.png::CompressedTexture2D::4028704376243973856::1688037696::1702273293::1::::<><>::
+00014.png::CompressedTexture2D::6650887685164713060::1688037696::1702273293::1::::<><>::
+00015.png::CompressedTexture2D::7509792515502325180::1688037696::1702273293::1::::<><>::
+00016.png::CompressedTexture2D::4749052566928513571::1688037696::1702273294::1::::<><>::
+00017.png::CompressedTexture2D::6014323445773092290::1688037696::1702273294::1::::<><>::
+00018.png::CompressedTexture2D::8649273951172616828::1688037696::1702273294::1::::<><>::
+00019.png::CompressedTexture2D::7881175283848688881::1688037696::1702273294::1::::<><>::
+00020.png::CompressedTexture2D::874867803751515128::1688037696::1702273295::1::::<><>::
+00021.png::CompressedTexture2D::8655130721727838435::1688037696::1702273295::1::::<><>::
+00022.png::CompressedTexture2D::3208958684089033419::1688037696::1702273295::1::::<><>::
+00023.png::CompressedTexture2D::4966243081151475206::1688037696::1702273295::1::::<><>::
+00024.png::CompressedTexture2D::683688616564600005::1688037696::1702273295::1::::<><>::
+00025.png::CompressedTexture2D::2088292402174199041::1688037696::1702273296::1::::<><>::
+00026.png::CompressedTexture2D::2411096063906312107::1688037696::1702273296::1::::<><>::
+00027.png::CompressedTexture2D::2350291532012548664::1688037696::1702273296::1::::<><>::
+00028.png::CompressedTexture2D::4718597063744040636::1688037696::1702273298::1::::<><>::
+00029.png::CompressedTexture2D::4443927760217630720::1688037696::1702273297::1::::<><>::
+00030.png::CompressedTexture2D::3710788141196051189::1688037696::1702273298::1::::<><>::
+::res://Ultimate Assets/graphics/enemies/bug/walk/::1702273301
+00000.png::CompressedTexture2D::3779010749339501004::1688037696::1702273299::1::::<><>::
+00001.png::CompressedTexture2D::1867578086327762767::1688037696::1702273299::1::::<><>::
+00002.png::CompressedTexture2D::2790515859958985105::1688037696::1702273299::1::::<><>::
+00003.png::CompressedTexture2D::3982840608811894887::1688037696::1702273300::1::::<><>::
+00004.png::CompressedTexture2D::5088691073078515471::1688037696::1702273300::1::::<><>::
+00005.png::CompressedTexture2D::4051131645891053022::1688037696::1702273300::1::::<><>::
+00006.png::CompressedTexture2D::5849032750587406694::1688037696::1702273301::1::::<><>::
+00007.png::CompressedTexture2D::2009174401525872057::1688037696::1702273301::1::::<><>::
+00008.png::CompressedTexture2D::2209915410311833893::1688037696::1702273301::1::::<><>::
+::res://Ultimate Assets/graphics/enemies/hunter/::1702273303
+hunter.png::CompressedTexture2D::1024633945096173203::1688037696::1702273303::1::::<><>::
+::res://Ultimate Assets/graphics/enemies/hunter/parts/::1702273300
+claw.png::CompressedTexture2D::7860257820574977557::1688037696::1702273300::1::::<><>::
+head.png::CompressedTexture2D::8292100490030823315::1688037696::1702273300::1::::<><>::
+leg_back_inner.png::CompressedTexture2D::5910001337807934956::1688037696::1702273300::1::::<><>::
+leg_back_outer.png::CompressedTexture2D::2287725755963920394::1688037696::1702273300::1::::<><>::
+leg_front_inner.png::CompressedTexture2D::3462946803748806792::1688037696::1702273300::1::::<><>::
+leg_front_outer.png::CompressedTexture2D::3562155286813434360::1688037696::1702273300::1::::<><>::
+torso.png::CompressedTexture2D::1043365594683511100::1688037696::1702273300::1::::<><>::
+::res://Ultimate Assets/graphics/explosions/::1702273300
+explosion_1.png::CompressedTexture2D::4120563399066266532::1688037696::1702273300::1::::<><>::
+explosion_2.png::CompressedTexture2D::5129386371533729567::1688037696::1702273299::1::::<><>::
+explosion_3.png::CompressedTexture2D::3735624561880903392::1688037696::1702273299::1::::<><>::
+grunge.png::CompressedTexture2D::5318974165044584584::1688037696::1702273296::1::::<><>::
+gun.png::CompressedTexture2D::1460115930987234078::1688037696::1702273296::1::::<><>::
+::res://Ultimate Assets/graphics/ground/::1702273296
+dirt.png::CompressedTexture2D::1558707173414948381::1688037696::1702273296::1::::<><>::
+Mesh.png::CompressedTexture2D::1148566925188173806::1688037696::1702273296::1::::<><>::
+stones.png::CompressedTexture2D::6630792871894999146::1688037696::1702273296::1::::<><>::
+::res://Ultimate Assets/graphics/items/::1702273296
+orb2.png::CompressedTexture2D::4011644314250578996::1688037696::1702273296::1::::<><>::
+::res://Ultimate Assets/graphics/lights/::1696260138
+::res://Ultimate Assets/graphics/lights/fan_animation/::1702273296
+00000.png::CompressedTexture2D::8302444937779561892::1688037696::1702273296::1::::<><>::
+00001.png::CompressedTexture2D::8969320609329770183::1688037696::1702273296::1::::<><>::
+00002.png::CompressedTexture2D::7197776582756153186::1688037696::1702273296::1::::<><>::
+00003.png::CompressedTexture2D::4115178470660047253::1688037696::1702273296::1::::<><>::
+00004.png::CompressedTexture2D::3240573832272096577::1688037696::1702273296::1::::<><>::
+00005.png::CompressedTexture2D::353060954683710107::1688037696::1702273296::1::::<><>::
+00006.png::CompressedTexture2D::3686503553207563338::1688037696::1702273296::1::::<><>::
+00007.png::CompressedTexture2D::7604778366159383775::1688037696::1702273296::1::::<><>::
+00008.png::CompressedTexture2D::8792774977851596830::1688037696::1702273296::1::::<><>::
+00009.png::CompressedTexture2D::5725920866206599714::1688037696::1702273296::1::::<><>::
+00010.png::CompressedTexture2D::3569765870093908653::1688037696::1702273296::1::::<><>::
+00011.png::CompressedTexture2D::21042478999877900::1688037696::1702273290::1::::<><>::
+00012.png::CompressedTexture2D::7590661003291305525::1688037696::1702273291::1::::<><>::
+00013.png::CompressedTexture2D::1900081256942754662::1688037696::1702273291::1::::<><>::
+00014.png::CompressedTexture2D::7371353261055453949::1688037696::1702273291::1::::<><>::
+00015.png::CompressedTexture2D::1585548519808008273::1688037696::1702273291::1::::<><>::
+00016.png::CompressedTexture2D::2642136936233136157::1688037696::1702273291::1::::<><>::
+00017.png::CompressedTexture2D::8623532360225301848::1688037696::1702273291::1::::<><>::
+00018.png::CompressedTexture2D::1867819980391602877::1688037696::1702273291::1::::<><>::
+00019.png::CompressedTexture2D::7800700788415920171::1688037696::1702273291::1::::<><>::
+00020.png::CompressedTexture2D::6240345186036413227::1688037696::1702273291::1::::<><>::
+00021.png::CompressedTexture2D::3989963988040141483::1688037696::1702273291::1::::<><>::
+00022.png::CompressedTexture2D::6119129757627233565::1688037696::1702273291::1::::<><>::
+00023.png::CompressedTexture2D::3114850103220513129::1688037696::1702273291::1::::<><>::
+00024.png::CompressedTexture2D::4264967523171835371::1688037696::1702273291::1::::<><>::
+00025.png::CompressedTexture2D::4958498066393124713::1688037696::1702273291::1::::<><>::
+00026.png::CompressedTexture2D::82610914564875957::1688037696::1702273291::1::::<><>::
+00027.png::CompressedTexture2D::7991298547007687247::1688037696::1702273291::1::::<><>::
+00028.png::CompressedTexture2D::3686400572633991401::1688037696::1702273291::1::::<><>::
+00029.png::CompressedTexture2D::2813391297855585255::1688037696::1702273291::1::::<><>::
+00030.png::CompressedTexture2D::7708454520713807311::1688037696::1702273291::1::::<><>::
+00031.png::CompressedTexture2D::8820419950568700124::1688037696::1702273291::1::::<><>::
+00032.png::CompressedTexture2D::6113825112271198263::1688037696::1702273290::1::::<><>::
+00033.png::CompressedTexture2D::9193213346566361563::1688037696::1702273290::1::::<><>::
+00034.png::CompressedTexture2D::6112705648917974944::1688037696::1702273290::1::::<><>::
+00035.png::CompressedTexture2D::1586035611462331844::1688037696::1702273290::1::::<><>::
+00036.png::CompressedTexture2D::223063085675189342::1688037696::1702273290::1::::<><>::
+00037.png::CompressedTexture2D::2968125373267304597::1688037696::1702273290::1::::<><>::
+00038.png::CompressedTexture2D::5739758307629868421::1688037696::1702273290::1::::<><>::
+00039.png::CompressedTexture2D::4875163476012614921::1688037696::1702273290::1::::<><>::
+00040.png::CompressedTexture2D::3336970985342589298::1688037696::1702273290::1::::<><>::
+00041.png::CompressedTexture2D::1714077444796515559::1688037696::1702273290::1::::<><>::
+00042.png::CompressedTexture2D::5085627553975949467::1688037696::1702273290::1::::<><>::
+00043.png::CompressedTexture2D::8029044950258472035::1688037696::1702273290::1::::<><>::
+00044.png::CompressedTexture2D::4007252616001796982::1688037696::1702273290::1::::<><>::
+00045.png::CompressedTexture2D::3368891282335903581::1688037696::1702273290::1::::<><>::
+00046.png::CompressedTexture2D::3115017384241908277::1688037696::1702273290::1::::<><>::
+00047.png::CompressedTexture2D::7079007141962767437::1688037696::1702273290::1::::<><>::
+::res://Ultimate Assets/graphics/lights/overlays/::1702273290
+hole.png::CompressedTexture2D::6233792775564704935::1688037696::1702273290::1::::<><>::
+infrastructure.png::CompressedTexture2D::5252522780218017864::1688037696::1702273290::1::::<><>::
+lattice.png::CompressedTexture2D::5658067611964632510::1688037696::1702273290::1::::<><>::
+::res://Ultimate Assets/graphics/lights/textures/::1702273291
+circle.png::CompressedTexture2D::4595718987950339826::1688037696::1702273291::1::::<><>::
+::res://Ultimate Assets/graphics/objects/::1702273292
+base.png::CompressedTexture2D::8615008330951650634::1688037696::1702273291::1::::<><>::
+bed.png::CompressedTexture2D::1788656741905043821::1688037696::1702273291::1::::<><>::
+Billboard.png::CompressedTexture2D::1803660358685378616::1688037696::1702273291::1::::<><>::
+Box.png::CompressedTexture2D::1780594959638114716::1688037696::1702273291::1::::<><>::
+corner.png::CompressedTexture2D::6114367024391900752::1688037696::1702273291::1::::<><>::
+door.png::CompressedTexture2D::7104366472252756975::1688037696::1702273291::1::::<><>::
+electric_box.png::CompressedTexture2D::7445873113343857397::1688037696::1702273291::1::::<><>::
+electric_hole.png::CompressedTexture2D::1111104883660709737::1688037696::1702273291::1::::<><>::
+fan.png::CompressedTexture2D::2144701090099576711::1688037696::1702273291::1::::<><>::
+gate.png::CompressedTexture2D::240463370203882868::1688037696::1702273292::1::::<><>::
+lid.png::CompressedTexture2D::8363779114911937130::1688037696::1702273291::1::::<><>::
+light.png::CompressedTexture2D::6829773063877986774::1688037696::1702273291::1::::<><>::
+pillow_large.png::CompressedTexture2D::2426227268953369961::1688037696::1702273291::1::::<><>::
+pillow_small.png::CompressedTexture2D::5154408438459210980::1688037696::1702273291::1::::<><>::
+toilet.png::CompressedTexture2D::6197649684886505970::1688037696::1702273291::1::::<><>::
+ventilation_hole.png::CompressedTexture2D::5057894312668718980::1688037696::1702273291::1::::<><>::
+ventilation_surface.png::CompressedTexture2D::2778551873819346025::1688037696::1702273291::1::::<><>::
+ventilation_surface_small.png::CompressedTexture2D::6037759085163784513::1688037696::1702273291::1::::<><>::
+wall_lamp.png::CompressedTexture2D::1572592978281016448::1688037696::1702273291::1::::<><>::
+::res://Ultimate Assets/graphics/objects/box/::1702273291
+base.png::CompressedTexture2D::8300217080807777052::1688037696::1702273290::1::::<><>::
+lid.png::CompressedTexture2D::2399501151184116287::1688037696::1702273291::1::::<><>::
+::res://Ultimate Assets/graphics/objects/infestation/::1702273291
+large.png::CompressedTexture2D::8100187260539472551::1688037696::1702273291::1::::<><>::
+line.png::CompressedTexture2D::8413753577783727485::1688037696::1702273291::1::::<><>::
+medium.png::CompressedTexture2D::5126799358604646115::1688037696::1702273291::1::::<><>::
+small.png::CompressedTexture2D::6243989549420492605::1688037696::1702273291::1::::<><>::
+small_2.png::CompressedTexture2D::7979240560012100216::1688037696::1702273291::1::::<><>::
+small_3.png::CompressedTexture2D::3500183699093072485::1688037696::1702273291::1::::<><>::
+small_4.png::CompressedTexture2D::8224038388322903687::1688037696::1702273291::1::::<><>::
+spikes.png::CompressedTexture2D::9106013445826577986::1688037696::1702273291::1::::<><>::
+::res://Ultimate Assets/graphics/player/::1702273291
+player.png::CompressedTexture2D::2403642515966130702::1688037696::1702273291::1::::<><>::
+::res://Ultimate Assets/graphics/projectiles/::1702273291
+blue.png::CompressedTexture2D::970251109059756895::1688037696::1702273291::1::::<><>::
+grenade.png::CompressedTexture2D::1379848498696438210::1688037696::1702273291::1::::<><>::
+::res://Ultimate Assets/graphics/tilesets/::1702273292
+ceiling.png::CompressedTexture2D::2651905001163092551::1688037696::1702273291::1::::<><>::
+interior.png::CompressedTexture2D::3592699989595231160::1688037696::1702273292::1::::<><>::
+outside_walls.png::CompressedTexture2D::4242730506009701383::1688037696::1702273291::1::::<><>::
+soil.png::CompressedTexture2D::297450191389938677::1688037696::1702273291::1::::<><>::
+::res://Ultimate Assets/graphics/ui/::1702273291
+bullet.png::CompressedTexture2D::7991322155438499738::1688037696::1702273291::1::::<><>::
+crosshair159.png::CompressedTexture2D::5770250723971221664::1688037696::1702273291::1::::<><>::
+grenade.png::CompressedTexture2D::5060523249408866438::1688037696::1702273291::1::::<><>::
+subatomic.tsoonami.ttf::FontFile::1219583812662487943::1688037696::1702273290::1::::<><>::
+::res://Ultimate Assets/graphics/ui/progress_bar/::1702273291
+bg.png::CompressedTexture2D::2816407648913734940::1688037696::1702273291::1::::<><>::
+over.png::CompressedTexture2D::111958752778261327::1688037696::1702273291::1::::<><>::
+progress.png::CompressedTexture2D::2338491712785427678::1688037696::1702273291::1::::<><>::

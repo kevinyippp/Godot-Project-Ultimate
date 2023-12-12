@@ -1,2 +1,3 @@
 res://Scenes/Main.tscn
 res://Scenes/Player.tscn
+res://Game Scripts/Player.cs

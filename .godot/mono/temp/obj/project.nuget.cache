@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "qxDeANL3JyRchIC+9T5iJDqyz4obDbiihbolCOT2HRgdNEjueYYDsokXOzCq9yQIba9w4kDWM4F6Rd+xHeT2BQ==",
+  "dgSpecHash": "5g5EbD3zh2sHW8T04JKB3puReR/dITaQUEZueTkAvkUwciZfqslcgRt6htvCPR10xanHTioX2+wTROFKEAugig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kevin Yip\\Documents\\Godot\\Godot-Project-Ultimate\\Csharp Ultimate.csproj",
+  "projectFilePath": "C:\\Users\\Kevin\\Documents\\Godot Projects\\Csharp Ultimate\\Csharp Ultimate.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Kevin Yip\\.nuget\\packages\\godot.sourcegenerators\\4.2.0\\godot.sourcegenerators.4.2.0.nupkg.sha512",
-    "C:\\Users\\Kevin Yip\\.nuget\\packages\\godotsharp\\4.2.0\\godotsharp.4.2.0.nupkg.sha512",
-    "C:\\Users\\Kevin Yip\\.nuget\\packages\\godotsharpeditor\\4.2.0\\godotsharpeditor.4.2.0.nupkg.sha512"
+    "C:\\Users\\Kevin\\.nuget\\packages\\godot.sourcegenerators\\4.2.0\\godot.sourcegenerators.4.2.0.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\godotsharp\\4.2.0\\godotsharp.4.2.0.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\godotsharpeditor\\4.2.0\\godotsharpeditor.4.2.0.nupkg.sha512"
   ],
   "logs": []
 }

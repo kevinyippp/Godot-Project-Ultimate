@@ -7,20 +7,29 @@ public partial class Player : CharacterBody2D
 
 	CollisionShape2D collision;
 
-	Vector2 playerDirection;
+	Vector2 playerDirection; //walking direction
+
 	float angle = Mathf.Pi / 2;
+
+	float speed = 400;
 
 	public override void _Ready()
 	{	
 		pivotPoint = GetNode<Marker2D>("Pivot Point");
 
 		collision = GetNode<CollisionShape2D>("CollisionShape2D");
+
 	}
 
-	// Called every frame. 'delta' is the elapsed time since the previous frame.
 	public override void _Process(double delta)
-	{
-		// playerDirection = (GetGlobalMousePosition() - this.Position ).Normalized();
+	{	
+		playerDirection = Input.GetVector("Left", "Right", "Up", "Down");
+
+		Velocity = playerDirection * speed;
+
+		MoveAndSlide();
+		
+		GD.Print( Engine.GetFramesPerSecond() );
 
 		LookAt(GetGlobalMousePosition() ); //rotate player to mouse direction
 	}
