@@ -1,0 +1,2 @@
+﻿7038
+C:/Game Making/Godot Csharp/Godot.exe

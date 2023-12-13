@@ -16,7 +16,7 @@ public partial class Player : CharacterBody2D
 	public override void _Ready()
 	{	
 		pivotPoint = GetNode<Marker2D>("Pivot Point");
-
+ 
 	}
 
 	public override void _Process(double delta)
@@ -29,10 +29,7 @@ public partial class Player : CharacterBody2D
 		
 		if ( collision != null)
 		{	
-			if ( (Node)collision.GetCollider() is StaticBody2D )
-			{
-				GD.Print( "colliding with static body2d" ) ;
-			}
+			GD.Print( ( (Node)collision.GetCollider() ).Name );
 		}	
 		else
 		{
