@@ -47,6 +47,11 @@ Right={
 ]
 }
 
+[layer_names]
+
+2d_physics/layer_1="Player"
+2d_physics/layer_2="Regular Object"
+
 [rendering]
 
 renderer/rendering_method="gl_compatibility"

@@ -1,4 +1,4 @@
 res://Scenes/Main.tscn
+res://Scenes/Bed.tscn
 res://Scenes/Player.tscn
 res://Game Scripts/Player.cs
-res://Scenes/Bed.tscn

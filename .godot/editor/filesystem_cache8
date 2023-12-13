@@ -1,12 +1,13 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1702353041
+::res://::1702427320
 icon.svg::CompressedTexture2D::4448353384319928326::1702268184::1702330050::1::::<><>::
 README.md::TextFile::-1::1702277101::0::1::::<><>::
 ::res://Game Scripts/::1702329161
-Player.cs::CSharpScript::-1::1702352970::0::1::::<>CharacterBody2D<>::
-::res://Scenes/::1702351432
-Main.tscn::PackedScene::9104540413509852907::1702351432::0::1::::<><>::uid://bpkgjf6cj51ux::::res://Scenes/Player.tscn
-Player.tscn::PackedScene::3460277800515722791::1702351432::0::1::::<><>::res://Game Scripts/Player.cs<>uid://bailv2cjok4va::::res://Ultimate Assets/graphics/player/player.png
+Player.cs::CSharpScript::-1::1702426461::0::1::::<>CharacterBody2D<>::
+::res://Scenes/::1702426394
+Bed.tscn::PackedScene::7942128005248728206::1702426394::0::1::::<><>::uid://0qo6d8sj1lc4::::res://Ultimate Assets/graphics/objects/bed.png
+Main.tscn::PackedScene::9104540413509852907::1702426394::0::1::::<><>::uid://bpkgjf6cj51ux::::res://Scenes/Player.tscn<>uid://dlfhxngygs76a::::res://Scenes/Bed.tscn
+Player.tscn::PackedScene::3460277800515722791::1702426394::0::1::::<><>::res://Game Scripts/Player.cs<>uid://bailv2cjok4va::::res://Ultimate Assets/graphics/player/player.png
 ::res://Ultimate Assets/::1696260137
 ::res://Ultimate Assets/audio/::1702273303
 battleThemeA.mp3::AudioStreamMP3::9016239101936415669::1688037696::1702273290::1::::<><>::

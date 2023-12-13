@@ -5,7 +5,7 @@ public partial class Player : CharacterBody2D
 {
 	Marker2D pivotPoint;
 
-	CollisionShape2D collision;
+	KinematicCollision2D collision;
 
 	Vector2 playerDirection; //walking direction
 
@@ -17,8 +17,6 @@ public partial class Player : CharacterBody2D
 	{	
 		pivotPoint = GetNode<Marker2D>("Pivot Point");
 
-		collision = GetNode<CollisionShape2D>("CollisionShape2D");
-
 	}
 
 	public override void _Process(double delta)
@@ -26,9 +24,21 @@ public partial class Player : CharacterBody2D
 		playerDirection = Input.GetVector("Left", "Right", "Up", "Down");
 
 		Velocity = playerDirection * speed;
-	
-		GD.Print( MoveAndCollide( Velocity * (float)delta) );
 
-		LookAt(GetGlobalMousePosition() ); //rotate player to mouse direction
+		collision = MoveAndCollide(Velocity * (float)delta);
+		
+		if ( collision != null)
+		{	
+			if ( (Node)collision.GetCollider() is StaticBody2D )
+			{
+				GD.Print( "colliding with static body2d" ) ;
+			}
+		}	
+		else
+		{
+			GD.Print("Colliding nothing");
+		}	
+
+		LookAt( GetGlobalMousePosition() ); //rotate player to mouse direction
 	}
 }
